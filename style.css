@@ -58,7 +58,7 @@ section.sobre{
     width:1200px;
     height:1200px;
     border-radius: 50%;
-    background-color:#017143;
+    background-color:#3b1d0b;
 }
 
 .extras img{
@@ -95,7 +95,7 @@ section.sobre{
 
 .texto-sobre button{
     border:0;
-    background-color: #017143;
+    background-color: #3b1d0b;
     color: white;
     border-radius: 10px;
     width: 100px;
