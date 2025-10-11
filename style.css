@@ -108,6 +108,6 @@ section.sobre{
     margin: 478px -155px;
 }
 
-img[src="/image/Banner4.png"]{
+img[src="./image/Banner4.png"]{
     width: 170px;
 }
